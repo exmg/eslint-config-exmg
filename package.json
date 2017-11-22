@@ -1,0 +1,13 @@
+{
+  "name": "eslint-config-exmg",
+  "version": "1.0.0",
+  "description": "ESLint shareable config for the Exmg Projects",
+  "license": "Apache-2.0",
+  "repository": "exmg/eslint-config-exmg",
+  "files": [
+    "index.js"
+  ],
+  "peerDependencies": {
+    "eslint": "^4.0.0"
+  }
+}
